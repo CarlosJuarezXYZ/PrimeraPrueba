@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>VUE</title>
-    <link>http://example.org/</link>
+    <link>https://carlos015programacion.github.io/PrimeraPrueba/</link>
     <description>Recent content on VUE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://carlos015programacion.github.io/PrimeraPrueba/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>1</title>
-      <link>http://example.org/1/</link>
+      <link>https://carlos015programacion.github.io/PrimeraPrueba/1/</link>
       <pubDate>Sun, 09 Aug 2020 00:20:51 -0500</pubDate>
       
-      <guid>http://example.org/1/</guid>
+      <guid>https://carlos015programacion.github.io/PrimeraPrueba/1/</guid>
       <description>hola</description>
     </item>
     
